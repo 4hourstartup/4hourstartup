@@ -8,13 +8,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : 4hourstartup.com
+tagline: Tester votre idée de startup sans savoir développer !
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : 4hourstartup
+  email : team@4hourstartup.com
+  github : 4hourstartup
+  twitter : 4hourstartup
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://4hourstartup.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
